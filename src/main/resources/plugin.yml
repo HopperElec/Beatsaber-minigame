@@ -1,0 +1,12 @@
+name: Beatsaber
+version: ${project.version}
+main: uk.co.hopperelec.mc.beatsaber.Main
+api-version: 1.14
+prefix: BeatSaber
+authors: [HopperElecYT]
+description: Beatsaber on a budget recreated as a server minigame by HopperElec
+website: hopperelec.co.uk
+
+commands:
+    beatsaber:
+        description: Beatsaber plugin top-level command
